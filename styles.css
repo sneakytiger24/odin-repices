@@ -6,11 +6,23 @@
     border-radius: 10px;
 }
 
-ol > li {
-    margin-bottom: 3ch;
+h1{
+    text-align: center;
+    font-size: 2rem;
+}
+
+ ol > li, ul > li {
+    margin-bottom: 1ch;
 }
 
 img{
     max-width: 100%;
     height: auto;
+}
+
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+p,li{
+    font-size: 18px;
 }
