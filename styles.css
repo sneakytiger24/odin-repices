@@ -1,0 +1,16 @@
+.container{
+    padding: 20px 40px;
+    max-width: 500px;
+    margin: auto;
+    background-color: wheat;
+    border-radius: 10px;
+}
+
+ol > li {
+    margin-bottom: 3ch;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+}
